@@ -1,0 +1,15 @@
+D:\GIT-YOUTUBE\Bootcamp\c_sharp_bootcamp\C_Sharp_bootcamp_lesson4\C_Sharp_bootcamp_lesson4\bin\Debug\net6.0\C_Sharp_bootcamp_lesson4.exe
+D:\GIT-YOUTUBE\Bootcamp\c_sharp_bootcamp\C_Sharp_bootcamp_lesson4\C_Sharp_bootcamp_lesson4\bin\Debug\net6.0\C_Sharp_bootcamp_lesson4.deps.json
+D:\GIT-YOUTUBE\Bootcamp\c_sharp_bootcamp\C_Sharp_bootcamp_lesson4\C_Sharp_bootcamp_lesson4\bin\Debug\net6.0\C_Sharp_bootcamp_lesson4.runtimeconfig.json
+D:\GIT-YOUTUBE\Bootcamp\c_sharp_bootcamp\C_Sharp_bootcamp_lesson4\C_Sharp_bootcamp_lesson4\bin\Debug\net6.0\C_Sharp_bootcamp_lesson4.dll
+D:\GIT-YOUTUBE\Bootcamp\c_sharp_bootcamp\C_Sharp_bootcamp_lesson4\C_Sharp_bootcamp_lesson4\bin\Debug\net6.0\C_Sharp_bootcamp_lesson4.pdb
+D:\GIT-YOUTUBE\Bootcamp\c_sharp_bootcamp\C_Sharp_bootcamp_lesson4\C_Sharp_bootcamp_lesson4\obj\Debug\net6.0\C_Sharp_bootcamp_lesson4.csproj.AssemblyReference.cache
+D:\GIT-YOUTUBE\Bootcamp\c_sharp_bootcamp\C_Sharp_bootcamp_lesson4\C_Sharp_bootcamp_lesson4\obj\Debug\net6.0\C_Sharp_bootcamp_lesson4.GeneratedMSBuildEditorConfig.editorconfig
+D:\GIT-YOUTUBE\Bootcamp\c_sharp_bootcamp\C_Sharp_bootcamp_lesson4\C_Sharp_bootcamp_lesson4\obj\Debug\net6.0\C_Sharp_bootcamp_lesson4.AssemblyInfoInputs.cache
+D:\GIT-YOUTUBE\Bootcamp\c_sharp_bootcamp\C_Sharp_bootcamp_lesson4\C_Sharp_bootcamp_lesson4\obj\Debug\net6.0\C_Sharp_bootcamp_lesson4.AssemblyInfo.cs
+D:\GIT-YOUTUBE\Bootcamp\c_sharp_bootcamp\C_Sharp_bootcamp_lesson4\C_Sharp_bootcamp_lesson4\obj\Debug\net6.0\C_Sharp_bootcamp_lesson4.csproj.CoreCompileInputs.cache
+D:\GIT-YOUTUBE\Bootcamp\c_sharp_bootcamp\C_Sharp_bootcamp_lesson4\C_Sharp_bootcamp_lesson4\obj\Debug\net6.0\C_Sharp_bootcamp_lesson4.dll
+D:\GIT-YOUTUBE\Bootcamp\c_sharp_bootcamp\C_Sharp_bootcamp_lesson4\C_Sharp_bootcamp_lesson4\obj\Debug\net6.0\refint\C_Sharp_bootcamp_lesson4.dll
+D:\GIT-YOUTUBE\Bootcamp\c_sharp_bootcamp\C_Sharp_bootcamp_lesson4\C_Sharp_bootcamp_lesson4\obj\Debug\net6.0\C_Sharp_bootcamp_lesson4.pdb
+D:\GIT-YOUTUBE\Bootcamp\c_sharp_bootcamp\C_Sharp_bootcamp_lesson4\C_Sharp_bootcamp_lesson4\obj\Debug\net6.0\C_Sharp_bootcamp_lesson4.genruntimeconfig.cache
+D:\GIT-YOUTUBE\Bootcamp\c_sharp_bootcamp\C_Sharp_bootcamp_lesson4\C_Sharp_bootcamp_lesson4\obj\Debug\net6.0\ref\C_Sharp_bootcamp_lesson4.dll
